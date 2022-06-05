@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1654153356 source:c:\users\laptop\desktop\problem solving codes\graphics_final_p\main.cpp
+	<iostream>
+	<math.h>
+	<stack>
+	<fstream>
+	<windows.h>
+	<list>
+	<gdiplus.h>
+	<vector>
+	<tchar.h>
+	<windows.h>
+
